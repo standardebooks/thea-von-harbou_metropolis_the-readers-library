@@ -18,6 +18,17 @@
 }
 /* End inline verse */
 
+/* Letters */
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* End letters */
+
 section[epub|type~="preface"]{
 	margin-top: 20vh;
     line-height: 1.5;
