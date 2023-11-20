@@ -30,8 +30,8 @@
 /* End letters */
 
 section[epub|type~="preface"]{
+	line-height: 1.5;
 	margin-top: 20vh;
-    line-height: 1.5;
 }
 
 footer{
@@ -39,15 +39,13 @@ footer{
 	text-align: right;
 }
 
-
 #chapter-4 blockquote p{
-		text-indent: 0;
-		text-align: center;
+	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-4 blockquote b{
+	font-size: 1.5em;
 	font-variant: all-small-caps;
 	text-align: center;
-	font-size: 1.5em;
 }
-
