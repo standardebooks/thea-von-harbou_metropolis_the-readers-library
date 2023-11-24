@@ -41,6 +41,7 @@ footer{
 
 #chapter-4 blockquote p{
 	text-align: center;
+	font-variant: small-caps;
 	text-indent: 0;
 }
 
