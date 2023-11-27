@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-*.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Consecutive periods in formatting of number line in chapter 10.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
