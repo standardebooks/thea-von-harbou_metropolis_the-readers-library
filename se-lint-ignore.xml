@@ -3,7 +3,7 @@
 	<file path="chapter-*.xhtml">
 		<ignore>
 			<code>t-042</code>
-			<reason>Consecutive periods in formatting of number line in chapter 10.</reason>
+			<reason>Consecutive periods in formatting of number line in chapters 10 and 18.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
