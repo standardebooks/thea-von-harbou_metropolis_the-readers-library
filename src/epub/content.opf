@@ -28,43 +28,52 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Metropolis</dc:title>
 		<meta property="file-as" refines="#title">Metropolis</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Fiction</dc:subject>
+		<dc:subject id="subject-2">Science fiction, German</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85118649</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">In a futuristic dystopian city where a privileged elite enjoys opulence above ground while oppressed workers toil in harsh conditions below, the son of the city’s mastermind falls in love with a revolutionary activist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Set in a futuristic dystopian city, “Metropolis” revolves around the stark divide between the affluent ruling class, who reside in luxurious skyscrapers above ground, and the oppressed working class laboring in dismal conditions below. The city is run by the powerful Joh Fredersen, who oversees the vast industrial complex that sustains the metropolis. The plot takes a dramatic turn when Joh Fredersen’s son, Freder, discovers the harsh reality of the workers’ plight and becomes determined to bridge the gap between the two classes.&lt;/p&gt;
+			&lt;p&gt;As Freder delves deeper into the city’s secrets, he encounters Maria, a compassionate woman advocating for workers’ rights. The plot thickens as the city faces the impending threat of rebellion from the oppressed laborers. Joh Fredersen, driven by his desire to maintain control, enlists the help of the brilliant scientist Rotwang to develop a humanoid robot with Maria’s likeness. The robot is intended to manipulate and control the workers, escalating tensions and leading to a dramatic climax that explores themes of class struggle, technology, and the consequences of unchecked industrialization.&lt;/p&gt;
+			&lt;p&gt;“Metropolis” was first serialized in the German magazine &lt;i&gt;Das illustrierte Blatt&lt;/i&gt; in 1926 and published in book form by August Scherl Verlag that same year. The first English language edition, upon which this Standard Ebooks edition is based, was published in 1927 by The Readers Library Publishing &lt;abbr&gt;Co.&lt;/abbr&gt; &lt;abbr&gt;Ltd.&lt;/abbr&gt;, London. The author also wrote the screenplay for the groundbreaking science fiction film “Metropolis” directed by her husband, Fritz Lang. Both the novel and the film were developed simultaneously, with the screenplay closely following the narrative of the novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://gutenberg.net.au/ebooks06/0601891h.html</dc:source>
+		<dc:source>https://archive.org/details/TheaVonHarbou19271963Mertopolis</dc:source>
+		<meta property="se:production-notes">Transcription from PG Australia</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metropolis</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metropolis_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thea-von-harbou_metropolis_the-readers-library</meta>
 		<dc:creator id="author">Thea von Harbou</dc:creator>
 		<meta property="file-as" refines="#author">Harbou, Thea von</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thea_von_Harbou</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50020574</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="translator">The Readers Library</dc:contributor>
+		<meta property="file-as" refines="#translator">Readers Library, The</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="artist">Charles Sheeler</dc:contributor>
+		<meta property="file-as" refines="#artist">Sheeler, Charles</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_Sheeler</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79067889</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Richard Scott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Scott, Richard</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Colin Choat</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Choat, Colin</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-1">Roy Glashan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Glashan, Roy</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Palm, Kevin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
