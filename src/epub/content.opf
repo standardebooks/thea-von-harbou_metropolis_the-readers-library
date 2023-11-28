@@ -69,7 +69,7 @@
 		<dc:contributor id="transcriber-2">Colin Choat</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Choat, Colin</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">Roy Glashan</dc:contributor>
+		<dc:contributor id="transcriber-3">Roy Glashan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Glashan, Roy</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
