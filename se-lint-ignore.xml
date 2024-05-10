@@ -2,10 +2,6 @@
 <se-lint-ignore>
 	<file path="chapter-*.xhtml">
 		<ignore>
-			<code>y-016</code>
-			<reason>Consecutive periods in formatting of number line in chapters 10 and 18.</reason>
-		</ignore>
-		<ignore>
 			<code>t-003</code>
 			<reason>Lint incorrectly tags two paragraphs for missing closing quotes.</reason>
 		</ignore>
