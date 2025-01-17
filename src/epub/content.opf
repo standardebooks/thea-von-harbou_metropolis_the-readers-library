@@ -34,7 +34,7 @@
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85118649</meta>
-		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">In a futuristic dystopian city, the son of the city’s mastermind falls in love with a revolutionary activist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Set in a futuristic dystopian city, &lt;i&gt;Metropolis&lt;/i&gt; revolves around the stark divide between the affluent ruling class, who reside in luxurious skyscrapers above ground, and the oppressed working class laboring in dismal conditions below. The city is run by the powerful Joh Fredersen, who oversees the vast industrial complex that sustains the city. The plot takes a dramatic turn when Joh Fredersen’s son, Freder, discovers the harsh reality of the workers’ plight and becomes determined to bridge the gap between the two classes.&lt;/p&gt;
@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks06/0601891h.html</dc:source>
 		<dc:source>https://archive.org/details/TheaVonHarbou19271963Mertopolis</dc:source>
-		<meta property="se:word-count">72387</meta>
+		<meta property="se:word-count">72386</meta>
 		<meta property="se:reading-ease.flesch">82.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metropolis_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thea-von-harbou_metropolis_the-readers-library</meta>
