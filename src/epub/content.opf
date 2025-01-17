@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks06/0601891h.html</dc:source>
 		<dc:source>https://archive.org/details/TheaVonHarbou19271963Mertopolis</dc:source>
-		<meta property="se:word-count">72386</meta>
+		<meta property="se:word-count">72384</meta>
 		<meta property="se:reading-ease.flesch">82.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metropolis_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thea-von-harbou_metropolis_the-readers-library</meta>
